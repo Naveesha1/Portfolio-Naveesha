@@ -67,7 +67,7 @@ function Contact() {
                             <div className="row">
                                 <FaEnvelope className='contact-icon' />
                                 <div className="info">
-                                    <div className="sub-title"><a href="mailto:naveeshakavindi4@gmail.com">naveesha@gmail.com</a></div>
+                                    <div className="sub-title"><a href="mailto:naveeshakavindi4@gmail.com">naveeshakavindi4@gmail.com</a></div>
                                 </div>
                             </div>
                         </div>
